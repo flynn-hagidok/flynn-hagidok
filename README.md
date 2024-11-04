@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flynn-hagidok
+- 👋 Hi, I’m @fleming-hagidok
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Developoment.
 - 💞️ I’m looking to collaborate on Web Development Projects.
